@@ -194,4 +194,8 @@ body {
     #secs, #mins, #hours, #days {
         min-width: 50vw;
     }
+
+    #heading h3 {
+        font-size: 1.3em;
+    }
 }
